@@ -1,3 +1,4 @@
 Stock v2
 promotion v2
 log v1
+tag v1.0
