@@ -1,4 +1,3 @@
 *.log
 *.tmp
-bin/
 node_module/
