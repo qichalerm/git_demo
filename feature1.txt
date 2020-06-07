@@ -1,2 +1,3 @@
-Stock v1
-promotion v1
+Stock v2
+promotion v2
+log v1
